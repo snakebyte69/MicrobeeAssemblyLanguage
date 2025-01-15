@@ -1,8 +1,9 @@
 # Microbee Assembly Language Programming
 The definitive book from the 80s
 
-Here is every example from the book 
-- with modifications to make it compatible with maximum number of assemblers and cross compilers.
+Here is every example from the book
+- with modifications to make it compatible with maximum number of assemblers and cross compilers
+- The programs start in Chapter 4
 
 # List of working cross assembler for CP/M Z80 Assembler # 
 All of these are working under macOS inside Sublime Text
