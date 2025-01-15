@@ -4,6 +4,7 @@ The definitive book from the 80s
 Here is every example from the book
 - with modifications to make it compatible with maximum number of assemblers and cross compilers
 - The programs start in Chapter 4
+*** comming soon ***
 
 # List of working cross assembler for CP/M Z80 Assembler # 
 All of these are working under macOS inside Sublime Text
@@ -72,3 +73,7 @@ All working except spasm-ng
 - ***z88dk-z80asm*** 
 - ***zasm***
 - ***zmac***
+
+For further disucssion and help from experts joing the facebook page and the discord.
+https://www.facebook.com/groups/microbeeprogrammers
+https://discord.gg/sTjxggn9Jz
