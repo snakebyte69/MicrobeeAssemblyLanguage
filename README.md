@@ -60,7 +60,7 @@ All working except spasm-ng
 - ***pasmo***
   - % pasmo -v -d hello.asm hello.bin
 - ***rasm*** 
-  - rasm -map hello.asm hello
+  - % rasm -map hello.asm hello
 - ***sbasm*** 
 - ***sdasz80*** 
 - ***SjASMPlus***
